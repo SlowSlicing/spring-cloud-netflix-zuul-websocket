@@ -55,4 +55,4 @@ zuul:
 
 With this you should have web sockets to your back-end service working correctly.
 
-**Checkout** this [demo](https://github.com/mthizo247/zuul-websocket-support-demo)
+**Checkout** this [demo](https://github.com/SlowSlicing/zuul-websocket-support-demo)
